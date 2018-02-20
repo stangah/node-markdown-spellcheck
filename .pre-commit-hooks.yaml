@@ -1,0 +1,6 @@
+- id: mdspell
+  name: mdspell
+  description: Reads markdown files and spellchecks them
+  entry: bin/mdspell
+  language: node
+  files: \.md$
